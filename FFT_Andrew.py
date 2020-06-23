@@ -3,7 +3,7 @@
 Created on Mon Jul 29 15:16:46 2019
 
 @author: Andrew LIU
-ㄋasdas"""
+"""
 
 import cv2
 import numpy as np
